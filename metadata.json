@@ -1,0 +1,8 @@
+{
+  "name": "MM",
+  "description": "Full-funnel digital marketing agency offering cinema-grade video production, social media management, and performance marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
